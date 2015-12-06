@@ -56,6 +56,7 @@ Here are some articles about system design related topics.
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 * [How do I prepare to answer design questions in a technical interview?] (https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview)
+* [System Design Interview Questions] (http://www.careercup.com/page?pid=system-design-interview-questions)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
