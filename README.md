@@ -57,6 +57,13 @@ Here are some articles about system design related topics.
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 * [How do I prepare to answer design questions in a technical interview?] (https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview)
 * [System Design Interview Questions] (http://www.careercup.com/page?pid=system-design-interview-questions)
+* [System Design by Hiredintech] (http://www.hiredintech.com/system-design)
+* [系统设计面试题思路综述] (http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/)
+* [How to prepare system design questions in a tech interview? | 如何准备系统设计题目？] (http://blog.baozitraining.org/2014/09/how-to-prepare-system-design-questions.html)
+* [最完整的面试经历] (http://chuansong.me/n/290160)
+* [如何答好面试中的系统设计题？] (http://www.zhihu.com/question/26312148)
+* [一亩三分地设计题] (http://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=84&filter=typeid&typeid=200)
+* [我的system design 总结] (http://www.wtoutiao.com/p/ef9tYN.html)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
