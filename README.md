@@ -62,12 +62,9 @@ Here are some articles about system design related topics.
 * [System Design by Hiredintech] (http://www.hiredintech.com/system-design)
 * [系统设计面试题思路综述] (http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/)
 * [How to prepare system design questions in a tech interview? | 如何准备系统设计题目？] (http://blog.baozitraining.org/2014/09/how-to-prepare-system-design-questions.html)
-* [最完整的面试经历] (http://chuansong.me/n/290160)
 * [如何答好面试中的系统设计题？] (http://www.zhihu.com/question/26312148)
 * [一亩三分地设计题] (http://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=84&filter=typeid&typeid=200)
 * [我的system design 总结] (http://www.wtoutiao.com/p/ef9tYN.html)
-* [Programming Interview Tips] (http://www.pgbovine.net/programming-interview-tips.htm)
-* [9个offer，12家公司，35场面试，从微软到谷歌，应届计算机毕业生的2012求职之路] (http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)
 * [我的system design 总结] (http://www.wtoutiao.com/p/ef9tYN.html)
 * [九章算法系统设计班] (http://www.jiuzhang.com/course/2/)
 
