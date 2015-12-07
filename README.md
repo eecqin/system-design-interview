@@ -41,6 +41,8 @@ the detailed OOD design for a particular function. You may also need to design t
 
 Here are some articles about system design related topics.  
 
+* [Designs, Lessons and Advice from Building Large Distributed Systems] (http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
+* [Software Engineering Advice from Building Large-Scale Distributed Systems] (http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
@@ -65,6 +67,7 @@ Here are some articles about system design related topics.
 * [一亩三分地设计题] (http://www.1point3acres.com/bbs/forum.php?mod=forumdisplay&fid=84&filter=typeid&typeid=200)
 * [我的system design 总结] (http://www.wtoutiao.com/p/ef9tYN.html)
 * [Programming Interview Tips] (http://www.pgbovine.net/programming-interview-tips.htm)
+* [9个offer，12家公司，35场面试，从微软到谷歌，应届计算机毕业生的2012求职之路] (http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
