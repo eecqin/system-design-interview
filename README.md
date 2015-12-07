@@ -68,6 +68,8 @@ Here are some articles about system design related topics.
 * [我的system design 总结] (http://www.wtoutiao.com/p/ef9tYN.html)
 * [Programming Interview Tips] (http://www.pgbovine.net/programming-interview-tips.htm)
 * [9个offer，12家公司，35场面试，从微软到谷歌，应届计算机毕业生的2012求职之路] (http://www.cnblogs.com/figure9/archive/2013/01/09/2853649.html)
+* [我的system design 总结] (http://www.wtoutiao.com/p/ef9tYN.html)
+* [九章算法系统设计班] (http://www.jiuzhang.com/course/2/)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
